@@ -1,0 +1,9 @@
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\bin\Debug\cs493jli100.exe.config
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\bin\Debug\cs493jli100.exe
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\bin\Debug\cs493jli100.pdb
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\obj\Debug\cs493jli100.csprojResolveAssemblyReference.cache
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\obj\Debug\cs493jli100.Form1.resources
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\obj\Debug\cs493jli100.Properties.Resources.resources
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\obj\Debug\cs493jli100.csproj.GenerateResource.Cache
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\obj\Debug\cs493jli100.exe
+c:\users\28296_000\documents\visual studio 2015\Projects\cs493jli100\cs493jli100\obj\Debug\cs493jli100.pdb
